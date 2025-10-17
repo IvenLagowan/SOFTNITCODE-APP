@@ -1,12 +1,6 @@
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# HASIL TAMPILAN APLIKASI BANTUAN TA NITCODE <br>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+<br>
+<img width="1051" height="584" alt="image" src="https://github.com/user-attachments/assets/c53df9f4-c283-439c-a6de-3385134e3c88" />
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
